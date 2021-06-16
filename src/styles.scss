@@ -1,1 +1,22 @@
-/* You can add global styles to this file, and also import other style files */
+.container {
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+
+}
+h1 { font-weight: normal; }
+.a {
+border: solid;
+float: left;
+}
+.b {
+  border: solid;
+  float: right;
+  
+  position: relative;
+  top: 60px;
+  right: 100px;
+
+
+  }
+

@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Synarion-Assignment"
+    }
+  },
+  "defaultProject": "Synarion-Assignment",
+  "cli": {
+    "analytics": false
+  }
 }
